@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "transform_sum_tree",
+            "request": "launch",
+            "mainClass": "BinaryTree.transform_sum_tree",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "kth_Ancestor_of_node",
+            "request": "launch",
+            "mainClass": "BinaryTree.kth_Ancestor_of_node",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "min_dic_bt_two_node",
             "request": "launch",
             "mainClass": "BinaryTree.min_dic_bt_two_node",
