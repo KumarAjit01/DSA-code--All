@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "size_of_largest_bst",
+            "request": "launch",
+            "mainClass": "BST.size_of_largest_bst",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "bst_to_balanced_bst",
+            "request": "launch",
+            "mainClass": "BST.bst_to_balanced_bst",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "sort_arr_to_balanced_bst",
+            "request": "launch",
+            "mainClass": "BST.sort_arr_to_balanced_bst",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Mirror_a_bst",
+            "request": "launch",
+            "mainClass": "BST.Mirror_a_bst",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "valid_bst",
+            "request": "launch",
+            "mainClass": "BST.valid_bst",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "search_in_bst",
+            "request": "launch",
+            "mainClass": "BST.search_in_bst",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "bst",
+            "request": "launch",
+            "mainClass": "BST.bst",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "BST.hello",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "transform_sum_tree",
             "request": "launch",
             "mainClass": "BinaryTree.transform_sum_tree",
