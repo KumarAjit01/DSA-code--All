@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solarm",
+            "request": "launch",
+            "mainClass": "Heaps.Solarm",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "connectnropes",
+            "request": "launch",
+            "mainClass": "Heaps.connectnropes",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "nearbycar",
+            "request": "launch",
+            "mainClass": "Heaps.nearbycar",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "heapsort",
+            "request": "launch",
+            "mainClass": "Heaps.heapsort",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Heap",
+            "request": "launch",
+            "mainClass": "Heaps.Heap",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "insert_in_heap",
+            "request": "launch",
+            "mainClass": "Heaps.insert_in_heap",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "studentcomp",
+            "request": "launch",
+            "mainClass": "Heaps.studentcomp",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "maxheap",
+            "request": "launch",
+            "mainClass": "Heaps.maxheap",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "deafult",
+            "request": "launch",
+            "mainClass": "Heaps.deafult",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "size_of_largest_bst",
             "request": "launch",
             "mainClass": "BST.size_of_largest_bst",
