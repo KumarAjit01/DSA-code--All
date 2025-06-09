@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "HASHING.anagram",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "majorityelem",
+            "request": "launch",
+            "mainClass": "HASHING.majorityelem",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "treehash",
+            "request": "launch",
+            "mainClass": "HASHING.treehash",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "linkedhashmap",
+            "request": "launch",
+            "mainClass": "HASHING.linkedhashmap",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "MyHashMap",
+            "request": "launch",
+            "mainClass": "HASHING.MyHashMap",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "iterationonhashmap",
+            "request": "launch",
+            "mainClass": "HASHING.iterationonhashmap",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "HASHING.basic",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "solarm",
+            "request": "launch",
+            "mainClass": "Heaps.solarm",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "Solarm",
             "request": "launch",
             "mainClass": "Heaps.Solarm",
