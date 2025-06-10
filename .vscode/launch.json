@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "TRIE.basic",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "subasetk",
+            "request": "launch",
+            "mainClass": "HASHSET.subasetk",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "largestsubarray",
+            "request": "launch",
+            "mainClass": "HASHSET.largestsubarray",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "tickets",
+            "request": "launch",
+            "mainClass": "HASHSET.tickets",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "union",
+            "request": "launch",
+            "mainClass": "HASHSET.union",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "countdistinctel",
+            "request": "launch",
+            "mainClass": "HASHSET.countdistinctel",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "llset",
+            "request": "launch",
+            "mainClass": "HASHSET.llset",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "iterationhs",
+            "request": "launch",
+            "mainClass": "HASHSET.iterationhs",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "basicoper",
+            "request": "launch",
+            "mainClass": "HASHSET.basicoper",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "anagram",
             "request": "launch",
             "mainClass": "HASHING.anagram",
